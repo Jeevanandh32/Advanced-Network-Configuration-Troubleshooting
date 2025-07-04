@@ -2,10 +2,10 @@
 
 # Lab Series README
 
-# Author: Jeevanandh Ravi
-# Instructor: Prof. Rajiv Shridhar
-# Student ID: 002313120
-# Semester: Spring 2025
+## Author: Jeevanandh Ravi
+## Instructor: Prof. Rajiv Shridhar
+## Student ID: 002313120
+## Semester: Spring 2025
 
 ## Overview
 This README provides guidance for the set of lab reports submitted for TELE 5360, covering network configuration, troubleshooting, and protocol implementation. Each lab builds on foundational networking concepts, focusing on OSPF, BGP, MPLS VPNs, redistribution, and route filtering.
@@ -29,7 +29,7 @@ R1 successfully reaches R6 through the intended path.
 R6 is unable to access R1’s loopback or the R1–R3 subnet.
 OSPF summarization and filtering optimize routing tables.
 
-**LAB 2: Network Troubleshooting**
+## LAB 2: Network Troubleshooting
 
 Objective:
 Diagnose and resolve multi-protocol connectivity issues (OSPF, EIGRP).
@@ -48,7 +48,7 @@ Results:
 All routers achieve full connectivity.
 Proper redistribution and metric tuning ensure optimal routing.
 
-**LAB 3: Network Troubleshooting (Advanced)**
+## LAB 3: Network Troubleshooting (Advanced)
 
 Objective:
 Further troubleshooting with OSPF, ISIS, and BGP.
@@ -65,7 +65,7 @@ Results:
 100% success rate in connectivity tests.
 All protocol redistributions function as intended.
 
-**LAB 4: Network Configuration (MPLS VPN & BGP)**
+## LAB 4: Network Configuration (MPLS VPN & BGP)
 
 Objective:
 Configure MPLS VPNs and troubleshoot BGP/OSPF issues.
@@ -101,7 +101,7 @@ Troubleshooting Tips:
 Always check for area mismatches, missing network statements, and protocol filters.
 Use show commands (show ip route, show ip ospf neighbor, show bgp, etc.) for diagnostics.
 
-**File Structure**
+## File Structure
 File Name	                                         Description
 TELE-5360_RAVI_JEEVANANDH_002313120_LAB1.pdf	     OSPF configuration, path enforcement, filtering
 TELE-5360_RAVI_JEEVANANDH_002313120_LAB_2.pdf	     OSPF/EIGRP troubleshooting, redistribution
