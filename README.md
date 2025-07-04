@@ -1,4 +1,4 @@
-###TELE 5360 – Internet Protocols and Architecture###
+##TELE 5360 – Internet Protocols and Architecture##
 
 Lab Series README
 
