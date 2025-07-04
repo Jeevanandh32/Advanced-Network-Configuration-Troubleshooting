@@ -2,16 +2,16 @@
 
 # Lab Series README
 
-**Author: Jeevanandh Ravi**
-**Instructor: Prof. Rajiv Shridhar**
-**Student ID: 002313120**
-**Semester: Spring 2025**
+# Author: Jeevanandh Ravi
+# Instructor: Prof. Rajiv Shridhar
+# Student ID: 002313120
+# Semester: Spring 2025
 
-**Overview**
+## Overview
 This README provides guidance for the set of lab reports submitted for TELE 5360, covering network configuration, troubleshooting, and protocol implementation. Each lab builds on foundational networking concepts, focusing on OSPF, BGP, MPLS VPNs, redistribution, and route filtering.
 
-Lab Summaries
-**LAB 1: Network Configuration**
+## Lab Summaries
+## LAB 1: Network Configuration
 
 Objective:
 -Configure an OSPF-based topology (R1–R6).
