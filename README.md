@@ -103,9 +103,6 @@ Use show commands (show ip route, show ip ospf neighbor, show bgp, etc.) for dia
 
 ## File Structure
 File Name	Description
-TELE-5360_RAVI_JEEVANANDH_002313120_LAB1.pdf	OSPF configuration, path enforcement, filtering
-TELE-5360_RAVI_JEEVANANDH_002313120_LAB_2.pdf	OSPF/EIGRP troubleshooting, redistribution
-TELE-5360_RAVI_JEEVANANDH_002313120_LAB_3-2.pdf	Advanced troubleshooting, ISIS, BGP
-TELE-5360_RAVI_JEEVANANDH_002313120_Lab4.pdf	MPLS VPN, BGP, OSPF label distribution
+
 ![image](https://github.com/user-attachments/assets/ee95852d-d9dc-4a09-9d8d-d71b325d25ff)
 
